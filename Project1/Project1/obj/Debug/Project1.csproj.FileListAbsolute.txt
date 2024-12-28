@@ -1,0 +1,17 @@
+E:\Project1\Project1\bin\Debug\Project1.exe.config
+E:\Project1\Project1\bin\Debug\Project1.exe
+E:\Project1\Project1\bin\Debug\Project1.pdb
+E:\Project1\Project1\bin\Debug\System.Data.SqlClient.dll
+E:\Project1\Project1\bin\Debug\System.Data.SqlClient.xml
+E:\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+E:\Project1\Project1\obj\Debug\Project1.Form1.resources
+E:\Project1\Project1\obj\Debug\Project1.Form5.resources
+E:\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+E:\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
+E:\Project1\Project1\obj\Debug\Project1.exe
+E:\Project1\Project1\obj\Debug\Project1.pdb
+E:\Project1\Project1\obj\Debug\Project1.Form2.resources
+E:\Project1\Project1\obj\Debug\Project1.Form3.resources
+E:\Project1\Project1\obj\Debug\Project1.Form4.resources
